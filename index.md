@@ -1,4 +1,4 @@
-This is a website for a quick introduction of myself :) Contact me via zhongyibo@stu.scu.edu.cn or yibozhong657@gmail.com  
+This is a website for a quick introduction of myself :) Please contact me via zhongyibo@stu.scu.edu.cn or yibozhong657@gmail.com  
 
 ![[Me]](https://raw.githubusercontent.com/blameitonme1/blameitonme1.github.io/main/me.png)  
 
