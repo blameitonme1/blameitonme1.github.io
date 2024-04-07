@@ -1,9 +1,7 @@
-This is a website for a quick introduction of myself :) Please contact me via zhongyibo@stu.scu.edu.cn or yibozhong657@gmail.com  
+Hi there! My name is Yibo Zhong and this is a website for a quick introduction of myself :) Please contact me via zhongyibo@stu.scu.edu.cn or yibozhong657@gmail.com  
 
 ![[Me]](https://raw.githubusercontent.com/blameitonme1/blameitonme1.github.io/main/me.png)  
 
-I'm an undergraduate at Sichuan University majoring in Computer Science and now I'm in my second year. I currently have had one researching experience starting from the middle of last semister. I mainly focus on computer vision and model compression. I believe studying efficient model design can enable us to keep studying Deep Learning even when we don't have much computational resources.
-
-Many applications nowadays are using large models such as GPT. But in many cases when the task given is small with few samples or the resources are limited, using an extreamely large model is either impractical or unnecessary. More efficient models can tackle this and when they scale up, they may bring even better performance.
+I'm an undergraduate at Sichuan University majoring in Computer Science and now I'm in my second year. I currently have had one researching experience starting from the middle of last semister. I mainly focus on computer vision and model compression. I believe studying efficient model design can enable us to keep studying Deep Learning even when we have limited computational resources.
 
 My future research interests are improving machine learning models in various aspects.
