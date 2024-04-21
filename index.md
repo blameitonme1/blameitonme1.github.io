@@ -14,7 +14,7 @@ Currently I have one paper in [arxiv](https://arxiv.org/abs/2404.08894). It's ab
 
 My future research interests are improving machine learning models in various aspects. I think this can be achieved by:
 
-- Learning **foundation models**: nowadays transformer is the most popular foundation model. But many studies are trying to improve it with linear attention or RNN-like archiitectures like rwkv or mamba, which is sort of popular right now. I find this area promising and exciting because it has the potential to impact the most areas where foundation modles are beging used.
+- Learning **foundation models**: nowadays transformer is the most popular foundation model. But many studies are trying to improve it with linear attention or RNN-like archiitectures like rwkv or mamba, which is sort of popular right now. I find this area promising and exciting because it has the potential to impact the most areas where foundation models are being used.
 - Efficient **adaptation** of models: namely PETL. Having an efficient foundation model is not enough, you may want to adapt it to the field where you are focusing on like NLP, CV or multi-media. This often comes down to adapting pre-trained models to various downstream tasks. Say you are dealing with medical images, you can't directly use a ViT pretrained on ImageNet. When you adapt it to the medical images, let's say there are many kinds of medical images like tumor, teeth, etc, you may want to use the backbone model repeatedly. That means you cant directly fine-tune the model, which is **costly** (lots of parameters) and performance is not that great. So PETL methods are **really** useful in such case.
 
 I'm also **generally interested in the application side**, hope to find an opportunity about it :).
