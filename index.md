@@ -8,7 +8,7 @@ I'm now an undergraduate at Sichuan University majoring in Computer Science and 
 
 # Research I have done
 
-Currently I have one paper in https://arxiv.org/abs/2404.08894. It's about the very first project I have done about Parameter Efficient Transfer Learning (or Fine-tuning if you like) in computer vision. More specifically, I took inspiration from many exisitng PETL methods which aiming to reduce various redundancies in vision transformer (ViT) to get their siginificantly reduced parameters. By trying to find whether there's any kind of redundancy that is not fully exploited to improve the performance, I found that the **multi-head design** is not fully studied in PETL methods, anbd studies have found that it actually has redundancy becuase of the multi-heads design, with mny heads showing similar patterns. Therefore, I come up with a method dealing with this and you can find it in my paper mentioned above.
+Currently I have one paper in https://arxiv.org/abs/2404.08894. It's about the very first project I have done about Parameter Efficient Transfer Learning (or Fine-tuning if you like) in computer vision. More specifically, I took inspiration from many exisitng PETL methods aiming to reduce various redundancies in vision transformer (ViT) to get their siginificantly reduced parameters. By trying to find whether there's any kind of redundancy that is not fully exploited to improve the performance, I found that the **multi-head design** is not fully studied in PETL methods, anbd studies have found that it actually has redundancy becuase of the multi-heads design, with mny heads showing similar patterns. Therefore, I come up with a method dealing with this and you can find it in my paper mentioned above.
 
 # Research Interests
 
